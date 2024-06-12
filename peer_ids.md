@@ -123,7 +123,7 @@
 | -7T     | [aTorrent](https://play.google.com/store/apps/details?id=com.mobilityflow.torrent) | | 下载器 |
 | -ZO     | Zona | | 下载器 |
 | 24-     | [aria2](https://aria2.github.io/) | | 下载器 |
-| A2-     | [BitSpirit](http://www.bitspirit.cc/) | 比特精灵 | 仅下载器 |
+| A2-     | [BitSpirit](http://www.bitspirit.cc/) | 比特精灵 | 下载器 |
 | FD6     | [FDM](https://www.freedownloadmanager.org/) | | 下载器 |
 | M6-     | [BitTorrent](https://www.bittorrent.com/) | | 下载器 |
 | M7-     | Mainline | | 下载器 |
