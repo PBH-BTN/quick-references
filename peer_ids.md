@@ -48,7 +48,6 @@
 | -DL     | DL | | 下载器 |
 | -EB     | EBit | | 下载器 |
 | -ES     | Electric Sheep | | 下载器 |
-| -FC     | qBittorrent | | 下载器 |
 | -FG     | 💣[FlashGet](http://www.flashget.com/en/) | 快车 | 仅下载器 |
 | -FL     | libtorrent | | 支持库 |
 | -FW     | FrostWire | | 下载器 |
