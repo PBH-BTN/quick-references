@@ -53,7 +53,7 @@
 | -EB     | [EBit](https://dywt.com.cn/) | | 下载器 |
 | -ES     | [Electric Sheep](https://electricsheep.org/#/about) | | 下载器 |
 | -FG     | 💣[FlashGet](http://www.flashget.com/en/) | 快车 | 仅下载器 |
-| -FC     | [FileCroc](https://web.archive.org/web/20070410162725/http://www.filecroc.com/) | | 下载器 }
+| -FC     | [FileCroc](https://web.archive.org/web/20070410162725/http://www.filecroc.com/) | | 下载器 |
 | -FL     | libtorrent | | 支持库 |
 | -FW     | [FrostWire](https://www.frostwire.com/) | | 下载器 |
 | -FX     | Freebox BitTorrent | | 下载器 |
@@ -153,8 +153,8 @@
 | Aria2 | 💣[Aria2](https://aria2.github.io/) | | 下载器 |
 | BitTorrent Plus! | [BitTorrent Plus!](https://web.archive.org/web/20060530224536/http://www.bitwonder.com/chs/index.htm) | | 下载器 |
 | BTDWV-  | [Deadman Walking](https://bbs.eastgame.org/) | | 下载器 |
-| Ext     | External Webseed | | 仅做种器（做种） |
-| -WS     | HTTP Seed | | 仅做种器（做种） |
+| Ext     | External Webseed | | 仅做种器（WebSeed） |
+| -WS     | HTTP Seed | | 仅做种器（WebSeed） |
 | LIME    | [LimeWire](https://github.com/void4/LimeWire) | 石灰线 | 下载器 |
 | Pando   | [Pando](https://web.archive.org/web/20110628020623/http://pandonetworks.com/pando-media-booster-support-faq) | | 下载器 |
 | PEERAPP | [PeerApp](https://web.archive.org/web/20160723055809/http://www.peerapp.com/#aboutPage) | | 下载器 |
