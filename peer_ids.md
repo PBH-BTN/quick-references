@@ -61,7 +61,7 @@
 | -GR     | [GetRight](http://getright.com/) | | 下载器 |
 | -GS     | [GSTorrent](https://gstorrent.sourceforge.net/) | | 下载器 |
 | -GP     | [Gopeed](https://gopeed.com/zh-CN) | | 下载器 |
-| -GT     | ޭ💣💣💣__ | | **恶意客户端** |
+| -GT     | 💣💣💣ޭ__ | | **恶意客户端** |
 | -HL     | [Halite](https://sourceforge.net/projects/halite/) | | 下载器 |
 | -HP     | 💣💣💣hp/torrent | | **恶意客户端** |
 | -JS     | [JSTorrent](https://jstorrent.com/) | | 下载器 |
