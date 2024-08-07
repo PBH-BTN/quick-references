@@ -126,8 +126,7 @@
 | -ZT     | [ZipTorrent](https://web.archive.org/web/20070417144230/http://www.ziptorrent.com/) | | 下载器 |
 | -7T     | [aTorrent](https://github.com/mobilityflow-attorent/atorrent) | | 下载器 |
 | -ZO     | [Zona](https://g1.zona.ru/en/) | | 下载器 |
-| 24-     | [aria2](https://aria2.github.io/) | | 下载器 |
-| A2-     | [BitSpirit](https://web.archive.org/web/20200702055151/http://www.bitspirit.cc/) | 比特精灵 | 下载器 |
+| -SP     | [BitSpirit](https://web.archive.org/web/20200702055151/http://www.bitspirit.cc/) | 比特精灵 | 下载器 |
 | FD6     | [FDM](https://www.freedownloadmanager.org/) | | 下载器 |
 | M6-     | ⭐[Mainline(BitTorrent)](https://www.bittorrent.com/) | | 下载器 |
 | M7-     | ⭐[Mainline(BitTorrent)](https://www.bittorrent.com) | | 下载器 |
@@ -147,7 +146,7 @@
 | QVOD    | [QVOD](http://web.archive.org/web/20130117054317/http://www.kuaibo.com/) | 快播 | 下载器 |
 | TB      | [Top-BT](http://web.archive.org/web/20130528140354/http://topbt.cse.ohio-state.edu/) | | 下载器 |
 | -FL     | [folx](https://www.mac-downloader.com/) | | 下载器 |
-| Aria2 | 💣[Aria2](https://aria2.github.io/) | | 下载器 |
+| A2-     | 💣[Aria2](https://aria2.github.io/) | | 下载器 |
 | BitTorrent Plus! | [BitTorrent Plus!](https://web.archive.org/web/20060530224536/http://www.bitwonder.com/chs/index.htm) | | 下载器 |
 | BTDWV-  | [Deadman Walking](https://bbs.eastgame.org/) | | 下载器 |
 | Ext     | External Webseed | | 仅做种器（WebSeed） |
