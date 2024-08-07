@@ -86,6 +86,7 @@
 | -PT     | [Popcorn Time](https://popcorntime.app/) | | 下载器 |
 | -PD     | [Pando](https://en.wikipedia.org/wiki/Pando_Networks) | | 下载器 |
 | -PE     | [PeerProject](https://github.com/peerproject/peerproject) | | 下载器 |
+| -PI     | [picotorrent](https://github.com/picotorrent/picotorrent) | | 下载器 |
 | -pX     | [pHoeniX](https://play.google.com/store/apps/details?id=com.transsion.phoenix&hl=en_US) | | 下载器 |
 | -qB     | ⭐[qBittorrent](https://www.qbittorrent.org/) | | 下载器 |
 | -QD     | [qqdownload](https://web.archive.org/web/20170603004712/http://xf.qq.com/) | QQ 旋风 | 仅下载器 |
