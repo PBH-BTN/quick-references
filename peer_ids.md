@@ -160,3 +160,5 @@
 | DansClient | [XanTorrent](https://web.archive.org/web/20040620041052/http://www.xantorrent.pwp.blueyonder.co.uk/) | | 下载器 |
 | -MG1    | [MediaGet](http://mediaget.com/) | | 仅下载器 |
 | -MG21   | [MediaGet](http://mediaget.com/) | | 仅下载器 |
+| -AL     | [Animeko](https://github.com/open-ani/animeko/) | | 下载器 |
+| -aniLT  | [Animeko](https://github.com/open-ani/animeko/) | | 下载器 |
